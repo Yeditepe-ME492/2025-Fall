@@ -1,0 +1,43 @@
+#+TITLE: ME 492 Graduation Project
+#+SUBTITLE: Fall 2025
+#+AUTHOR: Fethi Okyar
+#+STARTUP: overview
+#+REVEAL_THEME: simple
+#+REVEAL_INIT_OPTIONS: slideNumber:"c/t", width:1920, height:1080
+#+REVEAL_TITLE_SLIDE: <h2>%t</h2> <h3>%s</h3> <h3>%a</h3>
+#+OPTIONS: timestamp:nil toc:1 num:nil
+#+REVEAL_EXTRA_CSS: ./mystyle.css
+#+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
+
+* Calender
+(Fall'25):
+
+<2025-09-15 Mon> : ANNOUNCEMENT: Project Topics (from Dept. Boards)
+
+<2025-09-21 Sun> : SUBMISSION: Form 200 (Google forms)
+
+<2025-09-22 Mon> : REGISTRATION: Look at the Topic Assignment Table below and select your ME 492 section accordingly, if you have not been assigned to a project yet, wait for the ADD/DROP period.
+
+<2025-12-15 Mon> : SUBMISSION: Draft Report (YULearn Turnitin Assignment)
+
+<2026-01-?? TBA> : EXAM: 1?:00-1?:00 Comprehensive Exam (GDS) to be announced
+
+<2026-01-25 Sun> : SUBMISSION: Final Report over Turnitin (until 23:59)
+
+<2026-01-26 Mon> : PRESENTATIONS
+
+* [[./projeler.html][Topic Assignment Table]]
+Click on the link above to view the project topics. Check regularly, as the table will be populated as new submissions are received from the faculty. Students names associated with the topics will be displayed along the same row.
+
+* Resources
+#+REVEAL_HTML: <div style="font-size: 60%;">
+#+ATTR_REVEAL: :frag (appear appear appear ...)
+Some resources for posing a nice research question, doing a well-posed literature review, and writing a good project report
+  #+ATTR_REVEAL: :frag (appear appear appear ...)
+  - AI: [[https://huggingface.co/][Hugging Face]], chatGPT
+  - Using AI as a personal research assistant: [[https://www.youtube.com/watch?v=8oEOa9wStjk][Andy Stapleton]], Elicit, [[https://www.connectedpapers.com][connectedpapers]], litmaps, [[https://www.paperdigest.com][Paper Digest]], [[https://typeset.io/][scispace]], [[https://researchrabbitapp.com/home][Research Rabbit]]
+  - Math, Programming: [[https://octave.org/download][Octave]], Python
+  - Data Presentation: GnuPlot
+  - Word Processing: Latex, Overleaf
+#+REVEAL_HTML: <div>
+
