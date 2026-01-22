@@ -26,6 +26,9 @@
 
 <2026-01-23 Fri> : 09:30 - PRESENTATIONS
 
+* [[./sunumlar.html][Presentation Schedule]]
+The schedule of the first parallel session of the graduation project presentations can be found above.
+
 * [[./projeler.html][Topic Assignment Table]]
 Click on the link above to view the project topics. Check regularly, as the table will be populated as new submissions are received from the faculty. Students names associated with the topics will be displayed along the same row.
 
